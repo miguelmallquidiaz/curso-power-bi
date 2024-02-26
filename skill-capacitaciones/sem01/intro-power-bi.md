@@ -88,4 +88,4 @@ Para que todos los gráficos tengan interacciones se tiene que dar a formato > e
 
 Avance final:
 
-![alt text](dashboard-financiero.png)
+![alt text](dashboard-financiero.PNG)
